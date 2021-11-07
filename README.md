@@ -1,6 +1,10 @@
 
+# Quick Start Manual
+
+[Sensors Recording System for an Autonomous Vehicle in ROS(tm) - Quick Start Manual - Google Drive link](https://docs.google.com/document/d/1BEWxHOKF9vBZvdGs-j5YQ_qCclS9EgjoTSHT-McFybo/edit?usp=sharing "Quick Start Manual")
 
 # ROS Car Sensors Recorder Documentation
+
 ## includes:
 
     ROS setup
